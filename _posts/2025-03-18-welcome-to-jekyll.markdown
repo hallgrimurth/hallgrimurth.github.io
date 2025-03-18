@@ -1,31 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Analyzing Social Data with Interactive Visualizations"
 date:   2025-03-18 09:21:01 +0100
-categories: jekyll update
+categories: data visualization
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## Understanding Social Data Through Visualization
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In this post, we introduce an interactive visualization that explores key insights from our social data analysis assignment. The data focuses on [briefly describe what the data represents—e.g., social media trends, demographic insights, sentiment analysis, etc.].
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### **Why Visualization Matters**
+Data visualizations help reveal patterns and insights that are not immediately apparent in raw data. By using interactive tools like **Bokeh**, we can dynamically explore relationships and trends within our dataset.
 
-Jekyll also offers powerful support for code snippets:
+Below is an interactive graph generated using **Bokeh**:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hello, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<div style="display: flex; justify-content: center;">
+    <iframe src="/assets/interactive_plot.html" width="700px" height="400px" style="border: none;"></iframe>
+</div>
 
-{% include interactive_plot.html %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### **How to Interact with the Graph**
+- **Hover over points** to see additional information.
+- **Zoom in/out** to focus on specific data points.
+- **Pan across the graph** to navigate trends.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This visualization is part of our ongoing analysis for **[Course Name or Project Name]**, where we use **Python, Jupyter Notebooks, and Bokeh** to explore real-world social data.
+
+## Next Steps
+In future posts, we will dive deeper into the methodology, data sources, and how we can extend these visualizations to gain even more insights.
+
+Check out the **Jekyll docs** for more information on customizing this site:
+[Jekyll Docs](https://jekyllrb.com/docs/home)
+
+---
