@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-25T13:29:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Group 29 - Social Data Analysis and Visualization</title><subtitle>This is the course page for group 26 in Social Data Analysis and Visualization at DTU. The aim of it is to communicate the work we have done and display the pretty  visualizations we have made.</subtitle><entry><title type="html">Analyzing Social Data with Interactive Visualizations</title><link href="http://localhost:4000/data/visualization/2025/03/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Analyzing Social Data with Interactive Visualizations" /><published>2025-03-18T09:21:01+01:00</published><updated>2025-03-18T09:21:01+01:00</updated><id>http://localhost:4000/data/visualization/2025/03/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/data/visualization/2025/03/18/welcome-to-jekyll.html"><![CDATA[<h2 id="understanding-social-data-through-visualization">Understanding Social Data Through Visualization</h2>
+
+<p>In this post, we introduce an interactive visualization that explores key insights from our social data analysis assignment. The data focuses on [briefly describe what the data represents—e.g., social media trends, demographic insights, sentiment analysis, etc.].</p>
+
+<h3 id="why-visualization-matters"><strong>Why Visualization Matters</strong></h3>
+<p>Data visualizations help reveal patterns and insights that are not immediately apparent in raw data. By using interactive tools like <strong>Bokeh</strong>, we can dynamically explore relationships and trends within our dataset.</p>
+
+<p>Below is an interactive graph generated using <strong>Bokeh</strong>:</p>
+
+<div style="display: flex; justify-content: center;">
+    <iframe src="/assets/interactive_plot.html" width="700px" height="400px" style="border: none;"></iframe>
+</div>
+
+<h3 id="how-to-interact-with-the-graph"><strong>How to Interact with the Graph</strong></h3>
+<ul>
+  <li><strong>Hover over points</strong> to see additional information.</li>
+  <li><strong>Zoom in/out</strong> to focus on specific data points.</li>
+  <li><strong>Pan across the graph</strong> to navigate trends.</li>
+</ul>
+
+<p>This visualization is part of our ongoing analysis for <strong>[Course Name or Project Name]</strong>, where we use <strong>Python, Jupyter Notebooks, and Bokeh</strong> to explore real-world social data.</p>
+
+<h2 id="next-steps">Next Steps</h2>
+<p>In future posts, we will dive deeper into the methodology, data sources, and how we can extend these visualizations to gain even more insights.</p>
+
+<p>Check out the <strong>Jekyll docs</strong> for more information on customizing this site:
+<a href="https://jekyllrb.com/docs/home">Jekyll Docs</a></p>
+
+<hr />]]></content><author><name></name></author><category term="data" /><category term="visualization" /><summary type="html"><![CDATA[Understanding Social Data Through Visualization]]></summary></entry></feed>
