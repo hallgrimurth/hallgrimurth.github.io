@@ -51,8 +51,10 @@ All of this means the Tenderloin hasn’t undergone the same physical, demograph
 -----------
 
 ## **References**
+## **References**
 
 [KQED article](https://www.kqed.org/news/11665527/why-hasnt-the-tenderloin-gentrified-like-the-rest-of-san-francisco)
+
 
 [The Bold Italic](https://thebolditalic.com/in-defense-of-the-tenderloin-san-francisco-2ad189635485)
 
