@@ -6,8 +6,6 @@ permalink: /about/
 
 ## About This Project
 
----
-
 This site presents a data story created as part of the course **02806 Social Data Analysis and Visualization** at the Technical University of Denmark (DTU).
 
 The story investigates patterns in **drug-related crime in San Francisco**, with a particular focus on the **Tenderloin district** over time. Emphasis is placed on creating a **visual narrative** grounded in public data.
