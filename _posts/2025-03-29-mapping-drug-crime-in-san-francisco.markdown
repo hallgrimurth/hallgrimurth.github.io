@@ -11,7 +11,7 @@ In this post, we explore the spatial distribution of drug-related crimes across 
 
 Below is a multi-panel figure showing yearly distributions:
 
-![Choropleth Map of Drug Crimes](../assets/img/choropleth_map.png)
+![Choropleth Map of Drug Crimes](/assets/img/choropleth_map.png)
 
 ### **Key Observations**
 - **Tenderloin** remains the most consistently affected district throughout the time range.
