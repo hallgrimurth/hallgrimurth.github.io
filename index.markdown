@@ -37,10 +37,20 @@ Below is a multi-panel figure showing yearly distributions:
 ### **Key Observations**
 - **Tenderloin** remains the most consistently affected district throughout the time range.
 - Adjacent districts like **Southern** and **Mission** show modest but visible activity.
-- During **2020–2021**, a slight drop is visible, which may reflect the impact of the COVID-19 pandemic on policing or reporting.
+- During **2020–2021**, a slight drop is visible, which may reflect the impact of the COVID-19 pandemic on policing or reporting. Interestingly, while the pandemic slowed down law enforcement activity and disrupted city services, it also opened up space for other forms of neighborhood expression. As reported by [The Bold Italic](https://thebolditalic.com/in-defense-of-the-tenderloin-san-francisco-2ad189635485), **2020 and 2021 saw a rise in mural creation**, local artists used the moment to turn the neighborhood into a canvas.
 - In **recent years (2022–2024)**, case numbers appear to rise again, with the Tenderloin still dominating the map in intensity.
 
-### **Why It Matters**
-These maps make it visually evident that **drug crime is not evenly distributed** across San Francisco. The persistent concentration in Tenderloin raises important questions and highlights the need for interventions.
+### **But why does the Tenderloin stay so persistent — and different?**
+
+Some answers can be found in San Francisco’s urban policy history. According to a [KQED article](https://www.kqed.org/news/11665527/why-hasnt-the-tenderloin-gentrified-like-the-rest-of-san-francisco), the Tenderloin is **unusual among city neighborhoods** in that it has not followed typical gentrification patterns is by design.
+
+Several key policies and conditions have helped **preserve affordability and limit speculative development** in Tenderloin. When land was still cheap, nonprofit organizations acquired a large amount of property in the Tenderloin and have kept much of it in use for affordable housing. Since 1985, buildings over 13 stories have been banned, discouraging luxury high-rise development and maintaining the district’s older architectural character. The buildings are often without private kitchens or bathrooms, are legally protected, making them unattractive to wealthier renters and preserving low-income housing stock. Much of the Tenderloin is classified as a historic district, which further limits redevelopment and prevents major architectural transformation.
+
+All of this means the Tenderloin hasn’t undergone the same physical, demographic, or economic shifts as other neighborhoods — and may help explain why drug-related activity remains **concentrated and visible** here.
 
 -----------
+
+### **References**
+
+[KQED article](https://www.kqed.org/news/11665527/why-hasnt-the-tenderloin-gentrified-like-the-rest-of-san-francisco)
+[The Bold Italic](https://thebolditalic.com/in-defense-of-the-tenderloin-san-francisco-2ad189635485)
