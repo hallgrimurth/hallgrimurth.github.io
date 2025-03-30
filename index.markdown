@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-# Drug Crime in San Francisco - A Closer Look at the Tenderloin
+# **Drug Crime in San Francisco - A Closer Look at the Tenderloin**
 
 ## About This Project
 
@@ -26,7 +26,7 @@ Group 29, Spring 2025
 
 ---
 
-## Mapping Drug Crime Patterns Across San Francisco
+## **Mapping Drug Crime Patterns Across San Francisco**
 
 In this post, we explore the spatial distribution of drug-related crimes across San Francisco using a series of **choropleth maps**. The data focuses on the years **2016 to 2024**.
 
@@ -50,7 +50,16 @@ All of this means the Tenderloin hasn’t undergone the same physical, demograph
 
 -----------
 
-### **References**
+## **References**
 
 [KQED article](https://www.kqed.org/news/11665527/why-hasnt-the-tenderloin-gentrified-like-the-rest-of-san-francisco)
+
 [The Bold Italic](https://thebolditalic.com/in-defense-of-the-tenderloin-san-francisco-2ad189635485)
+
+---------
+
+## **Contributions**
+
+- **Hallgrímur Thorsteinsson** – 
+- **Daniel Diamant** – 
+- **Ha My Ngo** – Mapping Drug Crime Patterns Across San Francisco section
