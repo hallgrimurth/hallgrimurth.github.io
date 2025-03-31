@@ -56,7 +56,7 @@ Our analysis of San Francisco crime data reveals a surprising insight about the 
 
 This finding challenges conventional assumptions about policing effectiveness in high-crime areas. While one might expect a struggling neighborhood to have worse crime resolution outcomes, our data visualization shows the opposite – the Tenderloin's resolution rates stand notably higher than districts with lower overall crime rates.
 
-<iframe src="/assets/sf_crime_interactive_map.html" title="Interactive Map of Crime Resolution Rates" style="width:100%; height:600px; border:none;"></iframe>
+<iframe src="/assets/sf_crime_resolution_map.html" title="Interactive Map of Crime Resolution Rates" style="width:100%; height:600px; border:none;"></iframe>
 
 The explanation emerges when we examine the types of crimes that occur in each district. While most San Francisco neighborhoods show theft as their predominant crime category (around 50% of all reported incidents), the Tenderloin displays a markedly different pattern. In this district, drug and narcotic-related offenses constitute the largest category at 31.7% of total reported crimes.
 
