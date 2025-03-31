@@ -49,20 +49,25 @@ Several key policies and conditions have helped **preserve affordability and lim
 All of this means the Tenderloin hasn't undergone the same physical, demographic, or economic shifts as other neighborhoods — and may help explain why drug-related activity remains **concentrated and visible** here.
 
 -----------
-### **A Closer Look at Drug Cases per District**
+## **A Closer Look at Drug Cases per District**
 
-The bokeh bar chart below visualizes the number of **drug-related incidents** from the districts of the map. The data is stacked by district, making it easy to observe both trends. When you hover over a bar in the chart you can see the percentage of the total drug cases in s.f happen Tenderloin.
+The bar chart below visualizes the number of **drug-related incidents** from the districts of the map. The data is stacked by district and you can mute districts on the right side, making it easy to observe trends. When you hover over a bar in the chart you can see the percentage of the total drug cases in s.f happen Tenderloin.
 
-<iframe src="/assets/drug_incidents_by_district.html" title="Interactive Bokeh Plot of Drug Crimes" style="width:100%; height:600px; border:none;"></iframe>
 
 Some key takeaways from the visualization:
 
-- As we saw earlier **Tenderloin** stands out dramatically across all years. From the mid-2000s to 2010, the number of drug-related incidents in this district surged, peaking at nearly **5,000 cases per year**. This trend saw a decline in the mid-2010s but has **resurged again after 2018**, this might be because of the rise in popularity of fentanyl that happened at that time [Fentanyl epidemic hits the U.S. West Coast"](https://www.sciencedirect.com/science/article/abs/pii/S0955395921003078).
+- As we saw earlier **Tenderloin** stands out dramatically across all years. From the mid-2000s to 2010, the number of drug-related incidents in this district surged, peaking at nearly **5,000 cases per year**. This trend saw a decline in the mid-2010s but has resurged again after 2018, this might be because of the rise in popularity of fentanyl that happened at that time [Fentanyl epidemic hits the U.S. West Coast"](https://www.sciencedirect.com/science/article/abs/pii/S0955395921003078).
 - Other districts such as **Southern**, **Mission**, and **Bayview** show consistent but comparatively lower levels of activity. While their trends also vary year to year, none come close to the persistent intensity seen in the Tenderloin.
 - Not only does the Tenderloin consistently report the highest number of cases, but its **share of the total drug-related incidents citywide has also grown significantly**. In recent years, **over 50%** of all reported drug incidents in San Francisco have occurred in the Tenderloin.
 
+<iframe 
+  src="/assets/drug_incidents_by_district.html" 
+  title="Interactive Bokeh Plot of Drug Crimes" 
+  style="width:100%; height:600px; border:none; margin-bottom:0; padding-bottom:0; display:block;"
+></iframe>
+
 ----------------------
-### **Crime Resolution Effectiveness: The Tenderloin Paradox**
+## **Crime Resolution Effectiveness: The Tenderloin Paradox**
 
 Our analysis of San Francisco crime data reveals a surprising insight about the Tenderloin district. Despite being known for high crime rates and limited gentrification compared to other neighborhoods, the Tenderloin actually demonstrates better crime resolution rates than many other districts in the city.
 
