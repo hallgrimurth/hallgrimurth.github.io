@@ -22,4 +22,3 @@ Below is a multi-panel figure showing yearly distributions:
 ### **Why It Matters**
 These maps make it visually evident that **drug crime is not evenly distributed** across San Francisco. The persistent concentration in Tenderloin raises important questions and highlights the need for interventions.
 
----

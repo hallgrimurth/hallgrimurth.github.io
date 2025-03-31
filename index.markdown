@@ -49,6 +49,12 @@ Several key policies and conditions have helped **preserve affordability and lim
 All of this means the Tenderloin hasn’t undergone the same physical, demographic, or economic shifts as other neighborhoods — and may help explain why drug-related activity remains **concentrated and visible** here.
 
 -----------
+### **Additional Visualization**
+
+Visualization of drug incidents by districts.
+
+<iframe src="\assets\drug_incidents_by_district.html" title="Interactive Bokeh Plot of Drug Crimes" style="width:100%; height:600px; border:none;"></iframe>
+
 
 ## **References**
 ## **References**
