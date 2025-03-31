@@ -68,7 +68,7 @@ This difference in crime composition directly impacts resolution statistics. Dru
 
 In essence, drug crimes are often "pre-solved" upon discovery – when law enforcement identifies a drug crime, they typically already know who committed it. This contrasts sharply with crimes like theft or burglary, where identifying and apprehending suspects presents greater challenges.
 
-This analysis provides important context for understanding the Tenderloin's unique position in San Francisco's urban landscape. The district's resistance to gentrification – maintained through nonprofit property ownership, building height restrictions, legally protected SRO housing, and historic district classification – has preserved its distinctive character and demographics. These factors, combined with the prevalence of drug-related crimes that are easier to resolve, create the paradoxical situation where higher crime rates coexist with better resolution statistics.
+This highlights the Tenderloins unique position in San Francisco’s urban districs. The area remains less gentrified and has higher crime rates, which doesn't seem to be due to ineffective policing and could be due to structural factors. The district reports a higher resolution rate compared to other areas, likely due to the prevalence of drug-related crimes that are easier to close. This creates a paradox where high crime rates coexist with seemingly strong resolution statistics.
 
 *Note: Hover over each district on the map to see detailed crime category distributions.*
 
